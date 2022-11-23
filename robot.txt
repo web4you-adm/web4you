@@ -1,0 +1,12 @@
+# Sitemap
+Sitemap: https://web4you.bg/sitemap.xml
+
+
+# Google Images
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /images/
+
+
+
+
